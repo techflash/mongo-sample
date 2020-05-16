@@ -1,6 +1,6 @@
 version: '3'
 services:
-  node:
+  mongo-sample:
     build:
       context: .
       dockerfile: Dockerfile
