@@ -3,7 +3,6 @@ package com.svi.mongo.documents;
 import com.svi.mongo.model.Address;
 import java.util.List;
 import java.util.Set;
-import javax.validation.Valid;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
