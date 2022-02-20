@@ -1,6 +1,5 @@
 package com.svi.mongo.model;
 
-import com.fasterxml.jackson.databind.ser.Serializers.Base;
 import com.svi.mongo.documents.BaseEntity;
 import lombok.Data;
 import org.springframework.data.mongodb.core.mapping.Document;

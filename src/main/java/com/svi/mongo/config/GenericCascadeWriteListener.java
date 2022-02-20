@@ -1,13 +1,5 @@
 package com.svi.mongo.config;
 
-import lombok.RequiredArgsConstructor;
-import org.springframework.data.mongodb.core.MongoTemplate;
-import org.springframework.data.mongodb.core.mapping.DBRef;
-import org.springframework.data.mongodb.core.mapping.event.AbstractMongoEventListener;
-import org.springframework.data.mongodb.core.mapping.event.BeforeConvertEvent;
-import org.springframework.stereotype.Component;
-import org.springframework.util.ReflectionUtils;
-
 //@Component
 //@RequiredArgsConstructor
 //public class GenericCascadeWriteListener extends AbstractMongoEventListener<Object> {

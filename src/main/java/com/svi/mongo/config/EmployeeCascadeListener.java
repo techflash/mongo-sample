@@ -1,10 +1,8 @@
 package com.svi.mongo.config;
 
-import com.svi.mongo.documents.Department;
 import com.svi.mongo.documents.Employee;
 import com.svi.mongo.model.Address;
 import com.svi.mongo.repository.AddressRepository;
-import com.svi.mongo.service.DepartmentService;
 import java.util.List;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.mongodb.core.mapping.event.AbstractMongoEventListener;
